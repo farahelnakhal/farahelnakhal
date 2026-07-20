@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 Currently working on: Opportunity Intelligence Copilot<br>🌱 Learning: Quantum Computing<br>Fun fact: I am a caffeine-powered cat lover
+ 🔭 Currently working on: Opportunity Intelligence Copilot<br>🌱 Learning: Quantum Computing<br>🐱 Fun fact: I am a caffeine-powered cat lover
 
 "Debugging code in a superposition of 'it works' and 'it doesn't' until someone reviews the PR."
 
