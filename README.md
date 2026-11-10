@@ -1,7 +1,7 @@
 ## 💫 About Me:
  🔭 Currently working on: PHQCNN research<br>🌱 Learning: Quantum Computing<br>🐱 Fun fact: I am a caffeine-powered cat lover
 
-"Debugging code in a superposition of 'it works' and 'it doesn't' until someone reviews the PR."
+"Debugging code in a superposition of 'it works' and 'it doesn't' until someone reviews the PR :)“
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farah-elnakhal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fqe9080@nyu.edu) 
